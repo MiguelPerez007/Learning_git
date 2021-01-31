@@ -6,6 +6,5 @@ Note right of Miguel: China thinks\nabout it
 China-->Andrew: How are you? 
 Miguel->>China: I am good thanks!
 ```
-###End
 
-*Ejecutar comando npm install*
+###End
